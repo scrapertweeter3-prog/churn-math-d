@@ -1,0 +1,11 @@
+name "churn-math"
+description "Effective hourly rate math for bank account bonus churning: after-tax bonuses, forgone savings interest, fee drag, rotation calendars, eligibility windows"
+authors "James Verlander"
+homepage "https://www.extrahustles.com"
+license "MIT"
+targetType "library"
+
+configuration "demo" {
+    targetType "executable"
+    mainSourceFile "demo/main.d"
+}
