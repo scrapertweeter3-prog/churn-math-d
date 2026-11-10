@@ -1,0 +1,6 @@
+site_name: churn-math
+site_description: Effective hourly rate and rotation-calendar math for bank account bonus churning (D, stdlib only).
+repo_url: https://github.com/scrapertweeter3-prog/churn-math-d
+repo_name: scrapertweeter3-prog/churn-math-d
+nav:
+  - Home: index.md
